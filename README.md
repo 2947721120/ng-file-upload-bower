@@ -1,5 +1,5 @@
 # angular-file-upload-bower
 
-bower distribution of [angular-file-upload](https://github.com/danialfarid/angular-file-upload).
-All issues and pull request must be sumbitted to [angular-file-upload](https://github.com/danialfarid/angular-file-upload)
+bower 分布 [angular-file-upload](https://github.com/danialfarid/angular-file-upload).
+所有的问题和要求必须要把译文 [angular-file-upload](https://github.com/danialfarid/angular-file-upload)
 
